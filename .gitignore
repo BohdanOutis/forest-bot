@@ -1,0 +1,23 @@
+# Середовище та змінні
+.env
+.venv/
+venv/
+env/
+tests/
+
+# Кеш Python та компільовані файли
+__pycache__/
+*.py[cod]
+*$py.class
+.idea/
+.vscode/
+pgdata/
+postgres_data/
+.pytest_cache/
+
+# Логи
+*.log
+
+# Системні файли ОС
+.DS_Store
+Thumbs.db
